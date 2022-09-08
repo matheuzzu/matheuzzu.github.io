@@ -29,7 +29,7 @@ header {
   border-radius: 5px;
   border: 2px solid #fff;
   display: block;
-  background-color:#fff;
+  background-color: #fff;
   text-transform: uppercase;
   transition: all 0.3s cubic-bezier(0, 0, 0.5, 1);
 }
@@ -142,10 +142,11 @@ p {
   header {
     justify-content: center;
   }
-  .bike-img{
+  .bike-img {
     margin: 0;
+    margin-top: 20px;
   }
-  .menu{
+  .menu {
     justify-content: center;
   }
   .conteudo {
